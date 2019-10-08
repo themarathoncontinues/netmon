@@ -15,7 +15,7 @@ go get github.com/prometheus/client_golang/prometheus/promhttp
 ```bash
 go run main.go
 
-curl http://localhost:2112/metrics"
+curl http://localhost:2112/metrics
 ```
 
 
